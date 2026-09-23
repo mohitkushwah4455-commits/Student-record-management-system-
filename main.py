@@ -99,4 +99,4 @@ while True:
         break
 
     else:
-        print("Invalid OPTION SELECTION, try again.")
+        print("Invalid, try again.")
